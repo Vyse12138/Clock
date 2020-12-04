@@ -1,0 +1,18 @@
+body{
+    background-color: #06134d;
+}
+
+#date{
+    color: #b8bed6;
+    font-size: 200px;
+    margin-top: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#time{
+    color: #b8bed6;
+    font-size: 250px;
+    font-weight: bold;
+    text-align: center;
+}
