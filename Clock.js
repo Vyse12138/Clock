@@ -1,3 +1,9 @@
+let link = document.createElement('link');
+link.rel = 'stylesheet';
+link.href = 'Clock.css';
+let head = document.head;
+head.appendChild(link);
+
 const clock = () => {
     let bgColor = '#06134d';
     let date = new Date();
